@@ -1,49 +1,54 @@
-# AQUALIFE PISCINAS E SPAS — PROJETOS, EQUIPAMENTOS & EXECUÇÃO (CONTAGEM - MG)
-## Especializados em Criação de Projetos 3D, Construção de Piscinas, Spas de Hidromassagem, Saunas e Aquecimento Solar · Mais de 20 Anos de Mercado · Google Avaliações 4,9★ (40+ Avaliações)
+# BRASIL PISCINAS — CONSTRUÇÃO E REFORMA DE PISCINAS (BELO HORIZONTE - MG)
+## Especialistas em Piscinas de Concreto Armado, Vinil, Spas, Borda Infinita e Equipamentos Completos · Pampulha / Belo Horizonte · Google Avaliações 4,8★ (58 Avaliações)
 
 ---
 
 ### Visão Geral do Projeto
-Landing page de altíssima conversão, autoridade e experiência visual imersiva desenvolvida em Next.js 16 (App Router) e Tailwind CSS v4 para a **Aqualife Piscinas e Spas**, empresa e loja especializada em Contagem - MG (R. Maria da Conceição de São José, 175 - Arcadia, Contagem - MG, CEP 32041-400).
+Landing page de altíssima conversão, autoridade e sofisticação visual desenvolvida em Next.js 16 (App Router) e Tailwind CSS v4 para a **Brasil Piscinas**, empresa de referência em construção e reforma de piscinas em Belo Horizonte - MG (Av. Francisco Negrão de Lima, 860 - Lj A - Pampulha, Belo Horizonte - MG, CEP 31545-000).
 
 - **Identidade Visual & Cores (Extraída Diretamente do Logotipo Oficial):**
-  - **Paleta Primária (Deep Royal Cobalt Blue - Letras "aqua" do Logo):**
-    - `Darkest Navy` (`#031445`): Contraste institucional nobre para topbars, rodapés e hero.
-    - `Deep Navy` (`#051C73`): Superfície rica para modais, cartões escuros e navbars sólidas.
-    - `Royal Cobalt Base` (`#024395`): A cor sólida e confiável das letras "aqua" do logotipo.
-    - `Navy Border & Accent` (`#1E4BA8`): Bordas sutis de alto requinte para cartões e modais.
-  - **Paleta Secundária (Radiant Pool Cyan & Onda Superior - Letras "life" do Logo):**
-    - `Electric Aqua / Cyan` (`#02B8FD` / `#00B4D8` / `#00AEEF`): Destaques, badges e botões de ação.
-    - `Soft Cyan Surface` (`#F0F9FF` / `#BAE6FD`): Fundos limpos, arejados e confortáveis para leitura.
-  - **Paleta de Acento (Sol Radiante & Onda Inferior Dourada do Logo):**
-    - `Solar Gold` (`#FCCF04` / `#FFC72C`): O amarelo ouro vibrante e acolhedor do sol sorridente e da onda do logotipo.
-    - `Gold Hover & Shadow` (`#E5BC00`): Transição de foco e clique com contraste e feedback tátil.
-    - `Amber Text / Dark` (`#D97706`): Textos quentes com contraste acessível para leitura.
-  - **Cores Funcionais & Conversão:**
-    - `WhatsApp Oficial` (`#16A34A` / `#25D366` / `#15803D`): Botões de ação rápida com mensagem pré-formatada.
+  - **Paleta Primária (Azul Oceânico Profundo & Royal — Base, Contorno e Faixa do Logotipo):**
+    - `Darkest Navy` (`#001433`): Contraste institucional nobre para topbars, rodapés e hero.
+    - `Deep Navy` (`#001F4D`): Superfície rica para modais, cartões escuros e navbars sólidas.
+    - `Oceanic Royal Base` (`#002C6C`): A cor sólida e confiável das bordas e sombras do logotipo.
+    - `Navy Border & Accent` (`#134B9C`): Bordas sutis de alto requinte para cartões e modais.
+  - **Paleta Secundária (Cyan / Azul Piscina Radiante — Cavalo-Marinho & Tipografia "Brasil"):**
+    - `Electric Cyan` (`#00C4EE` / `#00B4D8` / `#00D2FF`): Destaques, badges e botões de ação com alto impacto visual.
+    - `Soft Cyan Surface` (`#F0FDFE` / `#E0F7FA`): Fundos limpos, arejados e confortáveis para leitura.
+    - `Cyan Border` (`#BAF1FB`): Delimitações suaves e elegantes de cards e seletores.
+  - **Acentos e Destaques:**
+    - `Google Star Amber` (`#F59E0B` / `#D97706`): Estrelas do Google 4,8★ e selos de garantia e satisfação.
+    - `WhatsApp Oficial` (`#16A34A` / `#22C55E` / `#15803D`): Botões de ação rápida com mensagem pré-formatada.
     - `Branco Puro & Espuma d'Água` (`#FFFFFF`, `#F8FAFC`): Respiro e legibilidade máxima.
 
 - **Tipografia Coesa & Harmoniosa:**
-  - **Títulos e Headings:** Montserrat (forte, geométrica, curvilínea e moderna, dialogando diretamente com a robustez e cantos arredondados do logotipo "aqualife").
+  - **Títulos e Headings:** Montserrat (forte, geométrica, curvilínea e moderna, dialogando diretamente com a robustez e cantos arredondados do logotipo "Brasil Piscinas").
   - **Corpo de Texto:** Plus Jakarta Sans (clareza visual máxima, legibilidade ergonômica em smartphones e monitores de alta densidade).
 
 - **Informações Oficiais de Contato:**
-  - **Razão Social / Nome Comercial:** Aqualife Piscinas e Spas
-  - **Assinatura Institucional:** Aqualife Piscinas e Spas — Projetos, Venda de Equipamentos e Execução
-  - **WhatsApp Direto:** (31) 98466-5062 (`5531984665062`)
-  - **Telefone Fixo da Loja:** (31) 2564-5327 (`553125645327`)
-  - **E-mail Oficial:** contato@aqualifepiscinas.com.br
-  - **Endereço Físico:** R. Maria da Conceição de São José, 175 - Arcadia, Contagem - MG, 32041-400
-  - **Instagram Oficial:** [@piscinasaqualife](https://www.instagram.com/piscinasaqualife/)
-  - **Site Institucional:** https://aqualifepiscinas.com.br
-  - **Google Avaliações:** 4,9 estrelas com mais de 40 avaliações públicas reais
+  - **Razão Social / Nome Comercial:** Brasil Piscinas
+  - **Assinatura Institucional:** Brasil Piscinas • Construção, Reforma & Equipamentos em Belo Horizonte
+  - **Telefone Comercial / Fixo:** (31) 2520-7776 (`553125207776`)
+  - **WhatsApp Direto:** (31) 99922-0269 (`5531999220269`)
+  - **Linktree Oficial:** https://linktr.ee/brasilpiscinas
+  - **E-mail Oficial:** contato@brasilpiscinas.com.br
+  - **Endereço Físico:** Av. Francisco Negrão de Lima, 860 - Lj A - Pampulha, Belo Horizonte - MG, 31545-000
+  - **Instagram Oficial:** [@brasilpiscinas](https://www.instagram.com/brasilpiscinas/)
+  - **Site Institucional:** https://brasilpiscinas.com.br
+  - **Google Avaliações:** 4,8 estrelas com 58 avaliações públicas reais
+
+- **Equipe Técnica e Gestão Citada pelos Clientes:**
+  - **Alberto:** Gestor de atendimento e contratação — destacado pela transparência, seriedade e consultoria técnica precisa.
+  - **Eudes:** Gestão de obras e cronogramas — cumprimento rigoroso de prazos e etapas.
+  - **Jayson / Geison:** Mestre técnico e especialista em acabamento — execução impecável, reformas minuciosas e capricho.
+  - **Igor & Reni:** Suporte técnico, atendimento ágil e prontidão em todas as fases da obra.
 
 - **Pilares Estratégicos & Serviços:**
-  1. **Projetos Personalizados & Modelagem 3D:** Equipe técnica com engenheiros civis, arquitetos e paisagistas para planejar a área de lazer antes da obra.
-  2. **Construção de Piscinas em Alvenaria, Vinil e Fibra:** Estrutura armada, impermeabilização de alta estanqueidade e revestimentos nobres (pastilhas, pedras atérmicas e vinil).
-  3. **Aquecimento Solar & Bombas de Calor (Inverter):** Conforto térmico os 365 dias do ano com economia de energia.
-  4. **Spas de Hidromassagem & Banheiras de Relaxamento:** Jatos terapêuticos direcionais, cromoterapia e ergonomia para toda a família.
-  5. **Saunas a Vapor e Saunas Secas:** Ambientes sob medida com geradores certificados, painéis digitais e isolamento térmico seguro.
-  6. **Iluminação Cênica em LED & Cascatas:** Refletores subaquáticos RGB com controle remoto e cascatas elegantes em inox 304/316.
-  7. **Quadro de Comando & Automação Inteligente:** Centralização elétrica segura de bombas, iluminação, cascata e aquecedor.
-  8. **Loja Completa, Produtos Sem Cloro (Peróxido e M20) & Areia de Filtro:** Estoque à pronta entrega e consultoria assertiva em Contagem.
+  1. **Piscinas de Concreto Armado & Borda Infinita:** Soluções de engenharia para terrenos desafiadores, piscinas suspensas, borda infinita com efeito espelho d'água e revestimentos nobres (pastilhas, Hijau, pedras atérmicas).
+  2. **Piscinas de Vinil & Troca de Bolsão:** Versatilidade geométrica, construção rápida e econômica, com estampas contemporâneas de alta resistência e troca especializada de bolsões antigos.
+  3. **Spas de Hidromassagem & Banheiras:** Hidroterapia sob medida, jatos direcionais, aquecedor dedicado e cromoterapia relaxante para áreas integradas ou independentes.
+  4. **Equipamentos, Filtros & Bombas:** Dimensionamento hidráulico normatizado, motobombas silenciosas de alta eficiência e filtros de areia de grande capacidade.
+  5. **Aquecimento Solar & Bombas de Calor (Inverter):** Conforto térmico os 365 dias do ano com economia de energia e controle digital.
+  6. **Iluminação Cênica em LED & Cascatas:** Iluminação subaquática RGB com controladores remotos e cascatas elegantes em aço inox 304/316.
+  7. **Prainhas, Saunas & Projetos Integrados:** Prainhas rasas seguras para crianças e banho de sol, bancos ergonômicos e saunas a vapor/secas completas.
+  8. **Reforma Completa & Manutenção Especializada:** Recuperação estrutural, troca de lâmpadas, reparo de vazamentos, impermeabilização e repaginação estética de piscinas antigas.

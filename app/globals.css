@@ -3,36 +3,35 @@
 :root {
   color-scheme: light;
   
-  /* AQUALIFE — Paleta Primária (Azul Royal Profundo / Cobalt — Letras "aqua" do Logotipo Oficial) */
-  --brand-navy-darkest: #031445;
-  --brand-navy-deep: #051C73;
-  --brand-navy-primary: #024395;
-  --brand-navy-card: #0A2B78;
-  --brand-navy-border: #1E4BA8;
+  /* BRASIL PISCINAS — Paleta Primária (Azul Oceânico Profundo & Royal — Base, Contorno e Faixa do Logotipo) */
+  --brand-navy-darkest: #001433;
+  --brand-navy-deep: #001F4D;
+  --brand-navy-primary: #002C6C;
+  --brand-navy-card: #07275E;
+  --brand-navy-border: #134B9C;
   
-  /* AQUALIFE — Paleta Secundária (Cyan / Azul Piscina Radiante — Letras "life" e Onda Superior do Logotipo) */
-  --brand-cyan-primary: #02B8FD;
-  --brand-cyan-hover: #029BD6;
-  --brand-cyan-light: #70D6FF;
-  --brand-cyan-surface: #F0F9FF;
-  --brand-cyan-border: #BAE6FD;
+  /* BRASIL PISCINAS — Paleta Ciano / Turquesa Radiante (Cavalo-Marinho & Tipografia "Brasil" do Logotipo) */
+  --brand-cyan-primary: #00C4EE;
+  --brand-cyan-hover: #00AEE0;
+  --brand-cyan-light: #70E1FF;
+  --brand-cyan-surface: #F0FDFE;
+  --brand-cyan-border: #BAF1FB;
   
-  /* AQUALIFE — Paleta de Acento (Sol Dourado & Onda Amarela Inferior do Logotipo) */
-  --brand-gold-primary: #FCCF04;
-  --brand-gold-hover: #E5BC00;
-  --brand-gold-dark: #D97706;
-  --brand-gold-surface: #FEFCE8;
+  /* Acentos de Apoio e Confiança */
+  --brand-gold-primary: #F59E0B;
+  --brand-gold-hover: #D97706;
+  --brand-gold-surface: #FEF9C3;
   --brand-gold-border: #FDE68A;
 
   /* Aliases para compatibilidade */
-  --brand-orange-primary: #FCCF04;
-  --brand-orange-hover: #E5BC00;
-  --brand-orange-surface: #FEFCE8;
+  --brand-orange-primary: #F59E0B;
+  --brand-orange-hover: #D97706;
+  --brand-orange-surface: #FEF9C3;
   --brand-orange-border: #FDE68A;
-  --brand-amber-gold: #FCCF04;
+  --brand-amber-gold: #F59E0B;
   
   /* Neutros e Superfícies */
-  --brand-slate-dark: #0A1128;
+  --brand-slate-dark: #07172B;
   --brand-slate-muted: #64748B;
   --brand-canvas-white: #FFFFFF;
   --brand-canvas-light: #F8FAFC;
@@ -48,19 +47,19 @@
   --font-heading: var(--font-heading), "Montserrat", system-ui, sans-serif;
   --font-sans: var(--font-body), "Plus Jakarta Sans", system-ui, sans-serif;
   
-  --color-brand-navy-primary: #024395;
-  --color-brand-navy-deep: #051C73;
-  --color-brand-navy-darkest: #031445;
-  --color-brand-navy-card: #0A2B78;
+  --color-brand-navy-primary: #002C6C;
+  --color-brand-navy-deep: #001F4D;
+  --color-brand-navy-darkest: #001433;
+  --color-brand-navy-card: #07275E;
   
-  --color-brand-cyan-primary: #02B8FD;
-  --color-brand-cyan-hover: #029BD6;
-  --color-brand-cyan-surface: #F0F9FF;
-  --color-brand-cyan-border: #BAE6FD;
+  --color-brand-cyan-primary: #00C4EE;
+  --color-brand-cyan-hover: #00AEE0;
+  --color-brand-cyan-surface: #F0FDFE;
+  --color-brand-cyan-border: #BAF1FB;
   
-  --color-brand-gold-primary: #FCCF04;
-  --color-brand-gold-hover: #E5BC00;
-  --color-brand-gold-surface: #FEFCE8;
+  --color-brand-gold-primary: #F59E0B;
+  --color-brand-gold-hover: #D97706;
+  --color-brand-gold-surface: #FEF9C3;
   
   --color-brand-canvas-light: #F8FAFC;
   --color-brand-canvas-surface: #FFFFFF;
@@ -73,15 +72,15 @@ html {
 
 body {
   background: #F8FAFC;
-  color: #0A1128;
+  color: #07172B;
   font-family: var(--font-body), "Plus Jakarta Sans", system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 ::selection {
-  background: #02B8FD;
-  color: #031445;
+  background: #00C4EE;
+  color: #001433;
 }
 
 .font-heading {
@@ -97,7 +96,7 @@ body {
   line-height: 1.4;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: #024395;
+  color: #002C6C;
 }
 
 .eyebrow-cyan {
@@ -109,7 +108,7 @@ body {
   line-height: 1.4;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: #02B8FD;
+  color: #00C4EE;
 }
 
 .eyebrow-gold,
@@ -129,7 +128,7 @@ body {
   width: 1.5rem;
   height: 2.5px;
   flex: none;
-  background: #02B8FD;
+  background: #00C4EE;
   content: "";
   border-radius: 999px;
 }
@@ -138,7 +137,7 @@ body {
   width: 1.5rem;
   height: 2.5px;
   flex: none;
-  background: #02B8FD;
+  background: #00C4EE;
   content: "";
   border-radius: 999px;
 }
@@ -148,41 +147,38 @@ body {
   width: 1.5rem;
   height: 2.5px;
   flex: none;
-  background: #FCCF04;
+  background: #F59E0B;
   content: "";
   border-radius: 999px;
 }
 
 /* Card Styles */
-.card-aqualife,
-.card-sol {
+.card-brasil {
   background: #FFFFFF;
   border: 1px solid #E2E8F0;
-  box-shadow: 0 1px 3px 0 rgba(2, 67, 149, 0.05), 0 1px 2px -1px rgba(2, 67, 149, 0.05);
+  box-shadow: 0 1px 3px 0 rgba(0, 44, 108, 0.05), 0 1px 2px -1px rgba(0, 44, 108, 0.05);
   transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.card-aqualife:hover,
-.card-sol:hover {
-  border-color: #BAE6FD;
-  box-shadow: 0 14px 30px -5px rgba(2, 184, 253, 0.15), 0 8px 12px -6px rgba(2, 67, 149, 0.08);
+.card-brasil:hover {
+  border-color: #BAF1FB;
+  box-shadow: 0 14px 30px -5px rgba(0, 196, 238, 0.18), 0 8px 12px -6px rgba(0, 44, 108, 0.08);
   transform: translateY(-2px);
 }
 
-.card-aqualife-dark,
-.card-sol-dark {
-  background: #051C73;
-  border: 1px solid #1E4BA8;
-  box-shadow: 0 4px 20px -2px rgba(3, 20, 69, 0.5);
+.card-brasil-dark {
+  background: #001F4D;
+  border: 1px solid #134B9C;
+  box-shadow: 0 4px 20px -2px rgba(0, 20, 51, 0.5);
   transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.card-aqualife-dark:hover,
-.card-sol-dark:hover {
-  border-color: #02B8FD;
-  box-shadow: 0 12px 30px -5px rgba(2, 184, 253, 0.25);
+.card-brasil-dark:hover {
+  border-color: #00C4EE;
+  box-shadow: 0 12px 30px -5px rgba(0, 196, 238, 0.25);
   transform: translateY(-2px);
 }
+
 
 /* Subtle glowing pulse animation */
 @keyframes subtlePulse {
@@ -216,5 +212,5 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #024395;
+  background: #002C6C;
 }
